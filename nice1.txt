@@ -1,0 +1,3 @@
+nice 1
+nice 2
+very 3
